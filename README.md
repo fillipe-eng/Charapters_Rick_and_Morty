@@ -1,1 +1,1 @@
-Para acessar o site: https://github.com/fillipe-eng/Charapters_Rick_and_Morty/
+Para acessar o site: https://fillipe-eng.github.io/Charapters_Rick_and_Morty/
